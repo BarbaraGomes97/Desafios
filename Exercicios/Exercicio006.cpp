@@ -11,6 +11,7 @@ int main(){
     cin >> n1;
     cout << "Nota 2: ";
     cin >> n2;
+    //Repetição de caracter e saída de dados
     cout << string(20,f) << "\n";
     cout << "Nome do Aluno(a): " << nome << "\n";
     cout << "Soma das notas: " << n1+n2 << "\n";
