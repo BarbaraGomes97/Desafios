@@ -1,2 +1,2 @@
-# Desafios - C++
- Inúmeros desafios desenvolvidos em C++
+# Desafios
+ Inúmeros desafios para estudo de novas linguagens.
