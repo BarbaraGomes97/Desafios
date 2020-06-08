@@ -1,3 +1,4 @@
+// Código para imprimir a tabuada de x número
 #include <iostream>
 using namespace std;
 int main(){
