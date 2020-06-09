@@ -1,2 +1,2 @@
 # Desafios
- Inúmeros desafios para estudo de novas linguagens.
+ Inúmeros desafios para estudo de novas linguagens de programação.
