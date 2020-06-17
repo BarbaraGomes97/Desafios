@@ -4,7 +4,7 @@
 #include <time.h>
 using namespace std;
 int main(){
-    int c=1, num, sorteio;
+    int sorteio;
     string nome, n0, n1, n2, n3;
     cout << "Digite o 1o. nome: ";
     cin >> n0;
